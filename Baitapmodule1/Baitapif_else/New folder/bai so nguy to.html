@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+function isPrime(number){
+if(number<2)
+return false;
+for(i=2;i<=Math.sqrt(number);i++){
+if(number%i==0)
+return false;
+}
+return true;
+
+}
+function displayPrimes(quantity){
+let count=0;
+let number=1;
+while(count<quantity){
+if(isPrime(number)){
+count++;
+document.write(number + " ");
+}
+number++
+}
+}
+quantity=+prompt("Nhap so luong: ");
+displayPrimes(quantity);
+
+</script>
+
+</body>
+</html>
