@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4b4f874-fbc8-49a6-82d8-cb70861813e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/New folder/bai so nguy to.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/New folder/vòng lặp/for1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/vòng lặp/for1.html" beforeDir="false" afterPath="$PROJECT_DIR$/New folder/vòng lặp/for1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <updated>1618222116371</updated>
       <workItem from="1618222118014" duration="133000" />
       <workItem from="1618222259581" duration="459000" />
-      <workItem from="1618275857911" duration="13104000" />
+      <workItem from="1618275857911" duration="13851000" />
     </task>
     <servers />
   </component>
