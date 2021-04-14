@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2>Bạn nhập dãy số vào đây:</h2> <input type="text" id="nhapso">
+<button onclick="gui()">Gửi</button><br>
+ <h2>Nhập số bạn muốn tìm trong dãy:</h2><input type="text" id="number">
+<button onclick="timso()">Tìm</button>
+<script>
+    let x = 0;
+    let array =[];
+    function gui(){
+        array[x]=document.getElementById("nhapso").value;
+        x++;
+         document.getElementById("nhapso").value="";
+    }
+    function timso() {
+
+        let a = document.getElementById('number').value;
+
+        for (let i = 0; i < array.length; i++) {
+            if (array[i] == a) {
+                alert(a + "có trong mảng và nằm ở vị trí thứ " + x);
+            }
+        }
+    }
+</script>
+</body>
+</html>
