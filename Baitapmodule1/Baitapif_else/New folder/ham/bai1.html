@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+function game(anwer){
+    let result= "";
+    if (anwer){
+        result="Thông minh đó";
+    }else{
+        result="GameOver.";
+    }return result;
+}
+let a=confirm('chúng ta bắt đầu nào?');
+let theanwer=game(a);
+alert(theanwer);
+</script>
+
+</body>
+</html>
