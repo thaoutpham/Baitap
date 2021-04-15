@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p style="color: aqua">
+<h1 style="color: gold">Temperature Converter</h1>
+Bạn hãy nhập độ F vào đây:<input type="number" id="nhap" oninput="doiNhietDo()" placeholder="Nhập độ F">
+</p>
+<P style="color: aqua">Độ C là: <span id="hienthi"></span></P>
+<script>
+      function doiNhietDo(){
+          let F = document.getElementById("nhap").value;
+          let C = (F-32)/1.8;
+          return (document.getElementById('hienthi').innerHTML=C);
+      }
+</script>
+</body>
+</html>
