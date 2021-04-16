@@ -5,6 +5,28 @@
     <title>Title</title>
 </head>
 <body>
+<script>
+    let a = +prompt('bạn muốn dãy gồm bao nhiêu số:');
+    let array = [];
+    for (i = 0; i < a; i++) {
+        let b = +prompt("nhập các số nguyên trong mảng");
+        array.push(b);
+    }
+    document.write(array + '<br>');
 
+    let first =0;
+    let last =array.length - 1;
+    let tg;
+    for (; first < last; first++, last--) {
+        tg =array[first];
+        array[first] =array[last] ;
+        array[last] = tg;
+
+    }document.write(array);
+
+
+
+
+</script>
 </body>
 </html>
