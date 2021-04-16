@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+      let a=+prompt("Nhập số bạn muốn tính giai thừa:");
+      let product= 1;
+      if (a<0){
+             product= "Không tồn tại giai thừa của số nguyên âm ";
+      }else if (a==0){
+             product=1;
+      }else{
+             for (i=1;i<=a;i++){
+               product *= i;
+     }
+ }document.write(product);
+</script>
+</body>
+</html>
