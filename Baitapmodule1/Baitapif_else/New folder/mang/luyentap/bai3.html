@@ -6,8 +6,17 @@
 </head>
 <body>
 <script>
+    let sum=0;
+    let max=0;
     let array=[1,4,7,9,35,25,687,23,2,10];
-    for (i=0;i<=)
+    for(i=0;i<=array.length;i++) {
+        if (array[i] > max) {
+            max = array[i];
+           sum +=array[i];
+        }
+    }   document.write(max +'<br>');
+    let tb=sum/array.length ;
+    document.write(tb);
 </script>
 </body>
 </html>
