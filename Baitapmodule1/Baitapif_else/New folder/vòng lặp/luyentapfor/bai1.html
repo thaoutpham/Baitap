@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Luyện tập vòng lặp For</title>
+</head>
+<body>
+<p><Span style="background: gold ">Dãy Fibonacci của bạn là:</span></p>
+<script>
+    let first1 =0;
+    let first2 =1;
+    let first3;
+    let serial =+prompt('Bạn muốn dãy Fibonacci có bao nhiêu số:');
+    document.write("0 "+"1 ")
+    for (i=2;i<=serial;i++){
+        first3 = first1 + first2;
+        document.write(first3+" ")
+        first1 =first3;
+        first2 =first1;
+    }
+</script>
+</body>
+</html>
