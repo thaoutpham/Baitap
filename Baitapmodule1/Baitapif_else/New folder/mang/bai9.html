@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Từ điển</title>
+</head>
+<body>
+<input type="text" id="mot">
+<button id="gui" onclick="gui()">Gửi</button>
+<script>
+    let a = ['go', 'music', 'home', 'dog'];
+    let b = ['đi', 'nhạc', 'nhà', 'chó'];
+
+    function gui() {
+        let index = -1;
+        let chu = document.getElementById("mot").value;
+        for (i = 0; i < a.length; i++) {
+            if (chu == a[i]) {
+                index = i
+            }
+        }alert(b[index]);
+    }
+</script>
+</body>
+</html>
