@@ -5,6 +5,18 @@
     <title>Title</title>
 </head>
 <body>
-
+<script>
+    let a=0;
+    let array=[1,12,10,4,6,9,100,2,5,7];
+    for(i=0;i<array.length;i++) {
+         for(j=0;j<array.length;j++){
+             if(array[i]>array[j]){
+                 a=array[i];
+                 array[i]=array[j];
+                 array[j]=a;
+             }
+         }
+    }document.write(array);
+</script>
 </body>
 </html>
