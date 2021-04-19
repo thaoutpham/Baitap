@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button onclick="ham()">kiemtra</button>
+<script>
+    function ham(){
+    let tong=0;
+    let  number =+prompt("nhap number:");
+    if(number>0){
+        for(i=1;i<number;i++) {
+            if (number % i == 0) {
+                tong += i;
+            }
+        }
+        if(tong<=number){
+                alert(number+'la so hoan hao');}else{
+            alert(number+'khong la so hoan hao');
+        }
+
+    }else {
+        alert(number+" khong la so hoan hao");
+    }}
+</script>
+</body>
+</html>

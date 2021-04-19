@@ -6,17 +6,16 @@
 </head>
 <body>
 <script>
-function isPrime(number){
-if(number<2)
-return false;
-for(i=2;i<=Math.sqrt(number);i++){
-if(number%i==0)
-return false;
-}
-return true;
+function isPrime(number) {
+    if (number < 2)
+        return false;
+    for (i = 2; i <= Math.sqrt(number); i++) {
+        if (number % i == 0)
+            return false;
+    }
+    return true;
 
-}
-function displayPrimes(quantity){
+}function displayPrimes(quantity){
 let count=0;
 let number=1;
 while(count<quantity){
