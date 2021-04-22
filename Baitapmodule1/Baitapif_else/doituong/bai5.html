@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<canvas id="mycanvas" width="1000" height="500" onclick="hienThi()"  style="border:  5px solid deepskyblue" ></canvas>
+<script>
+    function Rectancle(x,y,S,C){
+        this.x=x;
+        this.y=y;
+        this.getS=function(){
+            return x*y;
+        }
+        this.getC=function (){
+            return 2*x+2*y;
+        }
+    }
+    function hienThi(){
+        let chuNhat=document.getElementById('myCanvas');
+        let x=Math.floor(Math.random()*200);
+        let y=Math.floor(Math.random()*100);
+        document.write("dien tich la"+ S);
+        document.write("chu vi la"+C);
+    }
+
+</script>
+</body>
+</html>
