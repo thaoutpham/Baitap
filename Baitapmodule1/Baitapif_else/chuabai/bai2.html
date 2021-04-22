@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function kiemTra(number){
+        let sum=0;
+        if(number<=0){
+            return false;
+        }else {
+            for(i=0;i<number;i++){
+                if(number%2==0){
+                    sum+=number;
+                }
+                if(sum==number){
+                    return true;
+                }
+            }
+        }return false;
+    }
+    let number=+prompt("nhap so");
+    if(kiemTra(number)){
+        alert(number+"la so hoan hao")
+    }else {
+        alert(number+"khong la so hoan hao");
+    }
+</script>
+
+</body>
+</html>
