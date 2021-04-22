@@ -5,11 +5,11 @@ function kiemTra(number){
     }else {
         for(i=1;i<number;i++){
             if(number%i==0){
-                sum+=number;
+                sum+=i;
             }
-            if(sum==number){
-                return true;
-            }
+
+            }if(sum==number){
+            return true;
         }
     }return false;
 }
