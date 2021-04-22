@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="sohaonhao.js"></script>
+</head>
+<body>
+<script>
+    let index=+prompt("ban muon mang co bao nhieu phan tu ngau nhien");
+    let array=[];
+    for (j=0;j<index;j++){
+        array[j]=Math.round(Math.random()*100);
+    }
+    console.log(array);
+    let array1=[];
+    for(let k=0;k<array.length;k++) {
+        if (kiemTra(array[k])) {
+                array1.push(k);
+            }
+    }
+    if(array1.length==0){
+        console.log('khong co so hoan hao trong mang');
+    }else {
+        console.log('vi tri cac so hoan hao trong mang la'+array1);
+
+        }
+
+</script>
+</body>
+</html>
