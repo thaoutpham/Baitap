@@ -5,26 +5,48 @@
     <title>Title</title>
 </head>
 <body>
-<canvas id="mycanvas" width="1000" height="500" onclick="hienThi()"  style="border:  5px solid deepskyblue" ></canvas>
+<canvas id="myCanvas" width="1000" height="500" style="border: 10px solid deepskyblue"></canvas>
 <script>
-    function Rectancle(x,y,S,C){
-        this.x=x;
-        this.y=y;
-        this.getS=function(){
-            return x*y;
+    let Hinhchunhat = function (height, width, x, y, mau) {
+        this.x = x;
+        this.y = y;
+        this.height = height;
+        this.width = width;
+        this.mau = mau;
+        this.tinhDientich = function () {
+            return height * width;
         }
-        this.getC=function (){
-            return 2*x+2*y;
+        this.tinhChuVi = function () {
+            return 2 * (height + width);
         }
-    }
-    function hienThi(){
-        let chuNhat=document.getElementById('myCanvas');
-        let x=Math.floor(Math.random()*200);
-        let y=Math.floor(Math.random()*100);
-        document.write("dien tich la"+ S);
-        document.write("chu vi la"+C);
     }
 
+    function ve() {
+        start.beginPath();
+        start.fillStyle = mau;
+        start.fillRect(x, y, width, height)
+        start.fill();
+
+    }
+    let start = document.getElementById("myCanvas").getContext("2d");
+    let x = +prompt("toa do x");
+    let y = +prompt("nhap toa do y");
+    let width = +prompt("nhap chieu rong hinh chu nhat");
+    let height = +prompt("nhap chieu dai ");
+    let mau = prompt("nhap mau");
+    let hinh = new Hinhchunhat(height, width, x, y, mau);
+    ve();
+
+    function inRa() {
+        let canvas = document.getElementById("myCanvas").getContext('2d');
+        canvas.font = "10px Arial";
+        canvas.fillText("Điện tích hình chữ nhật là "+hinh.tinhDientich(), hinh.x,hinh.y);
+        canvas.fillText("Chu vi hình chữ nhật là "+hinh.tinhChuVi(), 10,20);
+
+
+    }
+
+    inRa()
 </script>
 </body>
 </html>
