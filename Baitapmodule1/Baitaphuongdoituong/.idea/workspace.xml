@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8284550-7a41-47e0-a839-148436eb74ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Baitapif_else/New folder/baidfdf.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Baitapif_else/doituong/anh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Baitapif_else/doituong/dichuydoituong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitapif_else/doituong/di.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baitapif_else/doituong/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects" beforeDir="false" afterPath="$PROJECT_DIR$/objects" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/objects/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/objects/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/objects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/objects/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/objects/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/objects/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitapif_else/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Baitapif_else/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitapif_else/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/baidfdf.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitapif_else/New folder/baidfdf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/doituong/dichuydoituong.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitapif_else/doituong/dichuydoituong.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619149996106</updated>
-      <workItem from="1619149997179" duration="8614000" />
+      <workItem from="1619149997179" duration="11154000" />
     </task>
     <servers />
   </component>

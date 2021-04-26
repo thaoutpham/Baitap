@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4b4f874-fbc8-49a6-82d8-cb70861813e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/doituong/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doituong/dienthoai.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitaphuongdoituong/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitaphuongdoituong/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitaphuongdoituong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitaphuongdoituong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitaphuongdoituong/objects" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitaphuongdoituong/objects" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doituong/bai2.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,13 +17,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
         <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -43,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/New folder/vòng lặp/bai5.html" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/pikachu.png" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,7 +70,7 @@
       <workItem from="1618275857911" duration="24299000" />
       <workItem from="1618361813277" duration="21684000" />
       <workItem from="1618452432021" duration="69482000" />
-      <workItem from="1619054213821" duration="24273000" />
+      <workItem from="1619054213821" duration="32005000" />
     </task>
     <servers />
   </component>
