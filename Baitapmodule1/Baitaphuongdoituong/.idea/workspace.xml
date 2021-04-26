@@ -2,23 +2,111 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8284550-7a41-47e0-a839-148436eb74ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Baitapif_else/doituong/di.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Baitapif_else/doituong/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/bai2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/objects" beforeDir="false" afterPath="$PROJECT_DIR$/objects" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/objects/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects/.idea/objects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/objects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/objects/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/objects/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/objects/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitapif_else/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitapif_else/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitapif_else/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitapif_else/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/baidfdf.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitapif_else/New folder/baidfdf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitapif_else/doituong/dichuydoituong.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitapif_else/doituong/dichuydoituong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/.idea/Baitapif_else.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/bai so nguy to.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/baidfdf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/ham/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/ham/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/ham/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/ham/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/ham/sudungcachamcosan/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/ham/sudungcachamcosan/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/ham/sudungcachamcosan/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/khabaobien.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/bai7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/bai9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/baigiattrinhonhat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/bài5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/bài6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/luyentap/BAI5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/luyentap/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/luyentap/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/luyentap/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/luyentap/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/luyentap/bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/luyentap/bai7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/luyentap/bai8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/mang/luyentap/bai9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/maytinh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/maytinhcoban.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/tinhsongaytrongthang.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/toanbangoi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/toantu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/bai 4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/for1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/for2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/for3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/for4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/for5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/for6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/for7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/for8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/luyentapfor/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/luyentapfor/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/luyentapfor/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/New folder/vòng lặp/luyentapfor/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/baiswitch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/baitapbien/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/baithi/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/baithi/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/baithi/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/baithi/bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/btdoituong/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/btdoituong/dichuyen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/chuabai/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/chuabai/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/chuabai/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/chuabai/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/chuabai/bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/chuabai/sohaonhao.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/chuot/bailatanh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/chuot/banphim.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/chuot/chíocothe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/chuot/clickchuot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/doituong/anh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/doituong/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/doituong/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/doituong/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/doituong/bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/doituong/bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/doituong/di.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/doituong/dichuydoituong.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/doituong/dienthoai.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/doituong/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitapif_else/login.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/objects" />
@@ -30,6 +118,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -52,6 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619149996106</updated>
       <workItem from="1619149997179" duration="11154000" />
+      <workItem from="1619402454306" duration="942000" />
     </task>
     <servers />
   </component>
